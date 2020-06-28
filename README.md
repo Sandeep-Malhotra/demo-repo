@@ -7,4 +7,4 @@ First Attempt for Git !!!
 Still Learning Git !!!
 
 ## Local Development
-1 Run index.htm in your local browser
+1 Run index.html in your local browser
